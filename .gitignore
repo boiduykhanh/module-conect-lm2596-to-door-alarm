@@ -1,0 +1,11 @@
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+
+# Temporary files
+*.kicad_pcb-bak
+_autosave-*
+
+# Netlist files (exported from Eeschema)
+*.net
+*bak
+*.lib
+*.dcm
